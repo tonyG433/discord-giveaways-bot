@@ -38,7 +38,7 @@ Then, you are going to create a file with the name config.json. Copy and paste t
 - devs - the ID's of the bot developer(s)
 - clientID - The bot's client ID, can be acquired from the developer portal
 
-In order to keep track of the giveaways, discord-giveaways uses a json file. Create a file names giveaways.json and put in an empty array.
+In order to keep track of the giveaways, discord-giveaways uses a json file. Create a file name giveaways.json and put in an empty array.
 ```json
 []
 ```
